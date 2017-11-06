@@ -16,4 +16,4 @@ Lab 3: Deep Q-Learning. You will implement the DQN algorithm and apply it to Ata
 - Lab 4: Policy Optimization Algorithms. You will implement various policy optimization algorithms, including policy gradient, natural policy gradient, trust-region policy optimization (TRPO), and asynchronous advantage actor-critic (A3C). You will apply these algorithms to classic control tasks, Atari games, and roboschool locomotion environments.
 
 
-The labs are released under an [MIT license](LICENCE), and the license file can be found in the downloaded folder for each lab.
+The labs are released under an [MIT license](LICENSE), and the license file can be found in the downloaded folder for each lab.
